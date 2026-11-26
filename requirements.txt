@@ -1,4 +1,0 @@
-requests>=2.32,<3
-starlette>=0.40
-uvicorn>=0.30
-telethon>=1.40,<2
